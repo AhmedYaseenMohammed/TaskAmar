@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Ahmed 4 Computers\\source\\repos\\testTask\\testTask\\wwwroot\\upload\\4154b435-1974-4548-be28-728561867944.xlsx",
+      "PackagePath": "staticwebassets\\upload\\4154b435-1974-4548-be28-728561867944.xlsx"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed 4 Computers\\source\\repos\\testTask\\testTask\\wwwroot\\upload\\8d1c80ed-39ef-4ba0-8ba1-c59f125133a1.xlsx",
+      "PackagePath": "staticwebassets\\upload\\8d1c80ed-39ef-4ba0-8ba1-c59f125133a1.xlsx"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.testTask.props",
+      "PackagePath": "build\\testTask.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.testTask.props",
+      "PackagePath": "buildMultiTargeting\\testTask.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.testTask.props",
+      "PackagePath": "buildTransitive\\testTask.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.testTask.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

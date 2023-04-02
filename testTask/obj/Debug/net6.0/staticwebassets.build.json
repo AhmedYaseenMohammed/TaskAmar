@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "wcYFLoP/D/LxPHkfmY8/xTh0d505HqkxG8lq9vJydmM=",
+  "Source": "testTask",
+  "BasePath": "_content/testTask",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "testTask\\wwwroot",
+      "Source": "testTask",
+      "ContentRoot": "C:\\Users\\Ahmed 4 Computers\\source\\repos\\testTask\\testTask\\wwwroot\\",
+      "BasePath": "_content/testTask",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
